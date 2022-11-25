@@ -1,0 +1,5 @@
+rice = 1
+total = 0
+for i in range(65):
+    rice *= 2
+    print(f"The total amount of rice on square {i} is {rice}")
